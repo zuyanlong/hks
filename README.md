@@ -1,2 +1,2 @@
 # hks
-Demo Project for Micro Service with Kubernetes
+Demo Project for Micro Services with Kubernetes
